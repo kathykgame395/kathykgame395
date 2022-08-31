@@ -1,5 +1,4 @@
-# H1 Header here
-### Hi there 👋
+# H3  Hi there
 
 <!--
 **kathykgame395/kathykgame395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
