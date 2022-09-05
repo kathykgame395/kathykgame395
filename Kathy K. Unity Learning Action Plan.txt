@@ -1,0 +1,82 @@
+﻿Unity Learning Action Plan
+Use the Unity Learning Action Plan to help you set your goals and then make a plan for how you can best achieve them. Mapping out what you can do to build your skills will help you reach your goals. Return to your learning action plan often, update your goals and your action plan as often as necessary. 
+1. Ultimate Unity Goal
+Set the goal of what you ultimately want to create and do with Unity. This can be big or small. Your goal could be to make a game, to create an application, to get a job using your Unity skills, it can be more than one goal. There is no right or wrong answer!
+
+
+My Goals 
+	
+
+I want to revise an existing Unity project, whether it be a script change, swapping out models or making an update to an environment, validating the change by running a build, deploying it to multiple devices, and testing iit on those devices.
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+________________
+2. Self-Assessment 
+Before you create your plan to learn Unity so you can met your goal, here are some questions to ask yourself as map out your approach to learning and identifying how you will dedicate the time: 
+* Where do you feel your skills are at right now with Unity? 
+* What Unity skills do you need to learn? It’s okay if you don’t know yet - that’s what the Unity Learn Platform and Learning Pathways is here to help with!
+* How and when will you set aside time to learn Unity? 
+* What are your strengths - for example, What advantages do you have that others don't have (for example, skills, certifications, education, or connections)? What do you do better than anyone else? What do other people see as your strengths? 
+* Who can you connect with to get feedback on your creations and learning goals? 
+3. Action Plan to Reach Ultimate Goal 
+An action plan helps you identify the resources and skills you need to reach your Ultimate Goal, and to set a time frame for doing so. Answer the following questions for each time frame and add action items to get you on your way. As you fill out your plan, consider the following: 
+* What you can do now and what you want to be able to do in, for example, 30-60-90 days. 
+* The goals above and how the action items will help you meet them. 
+* Key things you learned that you need to practice or where you want to learn more.
+* Any pain points or skill sets you found challenging and your plans to overcome them.
+* Any roadblocks or risks to you successfully following your plan and ideas for how to overcome them.  
+* Remember to continuously review and iterate your action plan as you learn new skills so you can reach your Ultimate Unity Goal! 
+________________
+
+
+My Learning Action Plan
+
+
+Milestones to reach my goal
+	Actions I will take to reach my goal
+	Timeline for each action
+	Outcome so I know I’m on the right path to reach my goal
+	1. Learn how to use Unity 
+	Complete the Unity Learn Pathways
+	12 weeks
+	I can make a lot of demo projects:
+	2. revise an existing Unity project script
+	Work hard ^^
+	No idea
+	I will create my first project
+	3. revise an existing Unity project model
+	No idea
+	No idea
+	Validation by other user
+	4. revise an existing Unity project environment
+	No idea
+	No idea
+	Validation by other user
+	5. Run a build
+	No idea
+	No idea
+	Validation by other user
+	6. Deploy to several devices
+	No idea
+	No idea
+	Validation by other user
+	7. Test it on devices
+	No idea
+	No idea
+	Validation by other user
+	8. Commit the change
+	No idea
+	No idea
+	Validation by other user
