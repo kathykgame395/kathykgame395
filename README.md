@@ -3,7 +3,7 @@ Hello and Welcome! I’m Kathy Kellogg, a multimedia designer at [SAIC](https://
 
 ## Quick links
 [GitHub Classroom](https://classroom.github.com/a/0VKYc6wz) <br>
-[ODU Login] (https://portal.odu.edu/)
+[ODU Login](https://portal.odu.edu/)
 
 <!--
 **kathykgame395/kathykgame395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
