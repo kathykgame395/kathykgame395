@@ -3,8 +3,9 @@ Hello and Welcome! I’m Kathy Kellogg, a multimedia designer at [SAIC](https://
 
 ## Quick links
 [GitHub Classroom](https://classroom.github.com/a/0VKYc6wz) <br>
-[ODU Login](https://portal.odu.edu/)
-[Student Playlist](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
+[ODU Login](https://portal.odu.edu/) <br>
+[Google Drive](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA) <br>
+[Student Playlist](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae) <br>
 <!--
 **kathykgame395/kathykgame395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
